@@ -2,7 +2,6 @@
   "clientes": [
         { "referencia": "A786", 
           "nombre": "Bar El Paseo", 
-          "telefonos": ["+34911111222", "+34600111222"], 
           "referenciaComercial": "COM-03" 
         }
   ],
