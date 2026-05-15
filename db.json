@@ -1,10 +1,61 @@
 {
   "clientes": [
-        { "referencia": "A786", 
-          "nombre": "Bar El Paseo", 
-          "referenciaComercial": "COM-03" 
-        }
-  ],
+  {
+    "referencia": "A786",
+    "nombre": "Bar El Paseo",
+    "referenciaComercial": "COM-03"
+  },
+  {
+    "referencia": "B214",
+    "nombre": "Cafetería La Esquina",
+    "referenciaComercial": "COM-01"
+  },
+  {
+    "referencia": "C532",
+    "nombre": "Restaurante Don Miguel",
+    "referenciaComercial": "COM-02"
+  },
+  {
+    "referencia": "D908",
+    "nombre": "Panadería San José",
+    "referenciaComercial": "COM-04"
+  },
+  {
+    "referencia": "E117",
+    "nombre": "Supermercado El Ahorro",
+    "referenciaComercial": "COM-05"
+  },
+  {
+    "referencia": "F643",
+    "nombre": "Frutería Las Flores",
+    "referenciaComercial": "COM-02"
+  },
+  {
+    "referencia": "G390",
+    "nombre": "Carnicería Hermanos Ruiz",
+    "referenciaComercial": "COM-01"
+  },
+  {
+    "referencia": "H821",
+    "nombre": "Pizzería Napoli",
+    "referenciaComercial": "COM-06"
+  },
+  {
+    "referencia": "I475",
+    "nombre": "Hotel Costa Azul",
+    "referenciaComercial": "COM-03"
+  },
+  {
+    "referencia": "J206",
+    "nombre": "Ferretería El Tornillo",
+    "referenciaComercial": "COM-04"
+  },
+  {
+    "referencia": "K759",
+    "nombre": "Librería Central",
+    "referenciaComercial": "COM-05"
+  }
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
