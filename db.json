@@ -1,56 +1,83 @@
 {
   "clientes": [
   {
+    "id": 1,
     "referencia": "A786",
     "nombre": "Bar El Paseo",
+    "telefonos": [
+      "613704822",
+      "613725223"
+    ]
     "referenciaComercial": "COM-03"
   },
   {
+    "id": 2,
     "referencia": "B214",
     "nombre": "Cafetería La Esquina",
+    "telefonos": [
+      "613704822",
+      "613725223"
+    ]
     "referenciaComercial": "COM-01"
   },
   {
+    "id": 3,
     "referencia": "C532",
     "nombre": "Restaurante Don Miguel",
+    "telefonos": [
+      "613704822",
+      "613725223"
+    ]
     "referenciaComercial": "COM-02"
   },
   {
+    "id": 4,
     "referencia": "D908",
     "nombre": "Panadería San José",
     "referenciaComercial": "COM-04"
   },
   {
+    "id": 5,
     "referencia": "E117",
     "nombre": "Supermercado El Ahorro",
+    "telefonos": [
+      "613704822",
+      "613725223"
+    ]
     "referenciaComercial": "COM-05"
   },
   {
+    "id": 6,
     "referencia": "F643",
     "nombre": "Frutería Las Flores",
     "referenciaComercial": "COM-02"
   },
   {
+    "id": 7,
     "referencia": "G390",
     "nombre": "Carnicería Hermanos Ruiz",
     "referenciaComercial": "COM-01"
   },
   {
+    "id": 8,
     "referencia": "H821",
     "nombre": "Pizzería Napoli",
     "referenciaComercial": "COM-06"
   },
   {
+    "id": 9,
     "referencia": "I475",
     "nombre": "Hotel Costa Azul",
     "referenciaComercial": "COM-03"
   },
   {
+    "id": 10,
     "referencia": "J206",
     "nombre": "Ferretería El Tornillo",
     "referenciaComercial": "COM-04"
   },
   {
+    "id": 11,
     "referencia": "K759",
     "nombre": "Librería Central",
     "referenciaComercial": "COM-05"
